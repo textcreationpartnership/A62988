@@ -1,0 +1,456 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Captain John Tosier, commander of His Majesties ship the Hunter at Jamaica with a narrative of his embassy and command in that frigat to the captain general and governour of Havannah, to demand His Majesty of Great Brittains subjects kept prisoners there ... : as also, the miraculous preservation of fifteen English His Majesties subjects, cast away and remaining eighteen days in a long boat at sea in a sad condition, taken up by the said Captain John Tosier.</title>
+            <author>Tosier, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62988</idno>
+            <idno type="STC">Wing T1950</idno>
+            <idno type="STC">ESTC R10073</idno>
+            <idno type="EEBO-CITATION">12031633</idno>
+            <idno type="OCLC">ocm 12031633</idno>
+            <idno type="VID">52749</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62988)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52749)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 401:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Captain John Tosier, commander of His Majesties ship the Hunter at Jamaica with a narrative of his embassy and command in that frigat to the captain general and governour of Havannah, to demand His Majesty of Great Brittains subjects kept prisoners there ... : as also, the miraculous preservation of fifteen English His Majesties subjects, cast away and remaining eighteen days in a long boat at sea in a sad condition, taken up by the said Captain John Tosier.</title>
+                  <author>Tosier, John.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prisoners --  Cuba --  Havana.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52749:1"/>
+            <pb facs="tcp:52749:1" rendition="simple:additions"/>
+            <p>A LETTER FROM <hi>Captain Iohn Toſier,</hi> Commander of His Majeſties Ship the <hi>HUNTER</hi> at <hi>JAMAICA.</hi>
+            </p>
+            <p>With a Narrative of his Embaſſy and Com<g ref="char:EOLhyphen"/>mand in that Frigat to the Captain General and Governour of <hi>Havannah;</hi> to demand His Ma<g ref="char:EOLhyphen"/>jeſty of <hi>Great Brittains</hi> Subjects kept Priſoners there:</p>
+            <p>The Account and manner of their Delivery, with a Liſt of their Names, and Times of Bondage.</p>
+            <p>AS ALSO,<lb/> The Miraculous Preſervation of Fifteen <hi>Engliſh</hi> His Majeſties Subjects, caſt away and remaining Eighteen Days in a Long Boat at Sea in a ſad condition, taken up by the ſaid Captain <hi>John Toſier.</hi>
+            </p>
+            <p>Printed in the Year 1679</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:52749:2"/>
+            <pb n="1" facs="tcp:52749:2"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>A Letter from Captain <hi>John Toſier,</hi> Commander of His Majeſties Ship the <hi>Hunter</hi> at <hi>Jamaica;</hi> with a Narrative of his Embaſſy and Command in that Frigat to the Captain General and Governour of <hi>Havannah.</hi>
+                  </head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I Have received your moſt welcom Letters, and they came not to my hand till the 20th. Inſtant, becauſe of my being at Sea: For by vertue of his Exellencies the Earl of <hi>Car<g ref="char:EOLhyphen"/>liſle</hi> Captain General and Governor of <hi>Jamaica's</hi> order, I failed from hence the 25th. of <hi>January</hi> laſt, (as well in Quality of Embaſſador, as that of my Command) for <hi>Havannah</hi> to demand from the Captain General of that place His Majeſties Subjects of <hi>Great Brittain,</hi> which were kept worſe Slaves then thoſe of <hi>Argiers,</hi> and ſo often denyed to ſeveral perſons of Quality, which have been ſent Embaſſadors from time to time, with Frigats of Fifty Guns and upwards. I gave you ſome account of this my laſt; and was much troubled in order to the management of ſo great an affair and of a concern as that was, (but God be thanked) to the honour of my Maſter the King of <hi>England,</hi> for whoſe ſervice, if I had a 1000 lives, I would ſacrifice them all, I obtained that ſucceſs which was not expected from me by any: For the <hi>Spa<g ref="char:EOLhyphen"/>niards</hi> were never known to have delivered any <hi>Engliſh</hi> that they took in the <hi>Weſt Indies</hi> before now. And thouſands of people would have ventured moſt of their Eſtates againſt that ſucceſs
+<pb n="2" facs="tcp:52749:3"/>which I brought home with me (bleſſed be God) for the honour of His Majeſty and the <hi>Engliſh</hi> Nation, and the great ſatisfaction of my Lord and all <hi>Jamaica;</hi> all which has here been acknow<g ref="char:EOLhyphen"/>ledged for a great peice of ſervice, done not only for the preſent but future good, there never having been the like preſident be<g ref="char:EOLhyphen"/>fore: The Particular of which ſhort Negotiation I have here in<g ref="char:EOLhyphen"/>cloſed, ſent you with a Liſt of their Names, to which I refer you.</p>
+                  <p>The next day after I received the Priſoners on board, It plea<g ref="char:EOLhyphen"/>ſed God further to Crown our ſucceſs by the Preſervation of Captain <hi>Joſeph Graves</hi> and 14 of his men (all His Majeſties Sub<g ref="char:EOLhyphen"/>jects) who were in a long Boat, and had been caſt away eighteen dayes before thirty Leagues to the Eaſtward of the <hi>Havannah,</hi> and expected nothing but to be utterly loſt, or to be Slaves in the <hi>Havannah</hi> at the beſt. Captain <hi>Graves</hi> ſailed hence a Month be<g ref="char:EOLhyphen"/>fore I went out, and was bound for <hi>London;</hi> I believe he will come and ſee you, and give you thanks for my kindneſs to him which he owned here.</p>
+                  <p>The great goodneſs of God is to be obſerved herein, for the firſt time I ſaw this man, he was Dr— and did ſo much abuſe me, that I could hardly endure it, but I was withheld: Yet that it ſo happened I ſhould be an Inſtrument to preſerve him, you may imagine the great joy we had on Board, I for my good fortune in this undertaking; the poor Slaves for their deliverance, and Captain <hi>Graves</hi> with his fourteen men for their preſervation in all their perils. Between them our Ship got two Names in two dayes, the firſt was the <hi>Bleſſing</hi> of <hi>England</hi> by the Slaves of <hi>Ha<g ref="char:EOLhyphen"/>vannah,</hi> and the ſecond the <hi>Preſervation</hi> by the Wrackt men.</p>
+                  <p>And though this Voyage is never made in leſs then three Months and ſometimes in four: We (putting our ſelves to ½. al<g ref="char:EOLhyphen"/>lowance, having 61 of his Majeſties loſt Subjects on Board, be<g ref="char:EOLhyphen"/>ſides our complement of men) made our Voyage in ſeven weeks and three dayes. My love and kindneſs to — <hi>&amp;c.</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <hi>Port-Royal</hi> in <hi>Jamaica</hi> 
+                        <date>
+                           <hi>the</hi> 28th. <hi>of March</hi> 1679.</date>
+                     </dateline>
+                     <salute>SIR,</salute> 
+                     <signed>I reſt Your Affectionate Friend and Servant. <hi>JOHN TOSIER.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="3" facs="tcp:52749:3"/>
+            <p> ON the 25th. of <hi>January</hi> 1678/9. I Sailed from <hi>Port-Royal</hi> in <hi>Jamaica</hi> for the <hi>Havannah,</hi> upon the North-ſide of <hi>Cuba,</hi> with Orders to demand His Majeſties Subjects that were there Priſoners. On the 11th. of <hi>February</hi> I arrived upon the Coaſt, where I lay off and on two dayes for a ſettled Weather; on the 13th. I Sailed within two Miles of the <hi>Moors</hi> Caſtle, with our Courſes in the Brailes, and our Top Sails a Trip, Jack, Ancient and Pendant flying, and ſent in my Boat aſhore with my Liſt, and Mr. <hi>Richard Bere</hi> his Excellency the Earl of <hi>Carliles</hi> Gentle<g ref="char:EOLhyphen"/>man of the Horſe, who was ſent my Interpreter to the Gover<g ref="char:EOLhyphen"/>nour; as ſoon as they were within command, the Guard of the <hi>Moors</hi> Caſtle commanded them aſhore, and put a Serjeant and Souldiers on Board them, who Guarded them up to the Gover<g ref="char:EOLhyphen"/>nour, and left another Guard upon the Boat, that none of the men ſhould come on Shore: I ſent by them his Excellencies Let<g ref="char:EOLhyphen"/>ter to the Governour, and to ſhow my Sailing Orders, and to de<g ref="char:EOLhyphen"/>ſire his Excellencies leave to enter into, and depart out of that Port of the <hi>Havannah</hi> with the King of <hi>Englands</hi> Frigat under my Command at my pleaſure, and to have my Salutes anſwered Gun for Gun: As ſoon as this was read, the Governour anſwered them, that all thoſe of the Kings Subjects there, were Pirats, and therefore would deliver none; and as to my coming in, he was very willing, but he muſt put a Guard upon the Kings Ship; and Salutes, he could not anſwer ſo much as one Gun; and then bidding them go three times out of his houſe, ſent them Guarded away to the Boat, and ſo forced them to Sea at ſeven a Clock at Night, and very dark upon a dangerous Coaſt, where they Boagged all Night, whilſt I ſtood off and in, not thinking they would turn them out ſo late: The next Morning at ſix a Clock I took up the Boat with this anſwer, and at Nine ſent them a ſhore again, with full Power and Inſtruction to tell him, that His Ma<g ref="char:EOLhyphen"/>jeſties Ship under my command is well Man'd, where he might be very ſafe and welcome if he would vouchſafe to give her his Company; and that His Majeſty of <hi>England</hi> never ſpared his Powder to anſwer Civilities, nor received ſuch Indignities as
+<pb n="4" facs="tcp:52749:4"/>Walters or Guards on Board any of His Majeſties Ships of War, which will be a ſtrange report, when His Majeſty ſhall come to hear of it. And to tell him further, that though I with His Majeſties Frigat cannot be admitted upon Honourable Terms, that I ſent him word, that his Excellency <hi>Charles</hi> Earl of <hi>Car<g ref="char:EOLhyphen"/>liſle,</hi> Captain General and Governour of <hi>Jamaica,</hi> hath com<g ref="char:EOLhyphen"/>manded me one of the Captains of His Majeſtie of <hi>Great Brittains</hi> Ships of War, attending that His Majeſties Iſland of <hi>Jamaica,</hi> to deſire his Excellency in the King of <hi>England's</hi> Name, and in obe<g ref="char:EOLhyphen"/>dience to the Order of the Catholick King, all the Subjects of His moſt Excellent Majeſty, that are detained Priſoners at the <hi>Havannah,</hi> that they be forthwith ſet at Liberty, and delivered to me, to be Tranſported to the Territories of the King of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>With ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>veral other directions, in caſe of a further denyal to de<g ref="char:EOLhyphen"/>mand a ſight of their Commitment upon Record: If Pirats, to ſend them for <hi>Old Spain,</hi> and there to be Tryed, and not to be kept in perpetual Slavery; relating the ſeveral Complaints made to the King and Councel, of their moſt barbarous uſage to our Nation here with the force of Authority, when at the ſame time we treat them with all tender kindneſs in the World, <hi>&amp;c.</hi>
+            </p>
+            <p>But before this Latter diſcourſe was ended, the Governour cauſed the Priſoners to be called over in a back Court near his houſe, and examined ſome of them, one after another; who be<g ref="char:EOLhyphen"/>fore he had done, ſaid, though I have no order to deliver them to you, and that I may be blamed, yet take them all with you, and if there be any more, let them come forth immediatly and they ſhall be diſcharged, at which Declaration, they all being 46. in number, gave ſuch Cheer-ho, that they made the houſe ring, ſaying, God bleſs the Bleſſing of <hi>England,</hi> which they called our Ship; immediatly I hoiſted out the long Boat, and had them all on Board in leſs then three hours: Whereupon I ſet Sail the next day for the Bay of <hi>Mettances</hi> to Water, and ſo to <hi>Port-Royal,</hi> where I arrived the 20th day of <hi>March</hi> following, to the great ſatisfaction of all men here.</p>
+            <pb n="5" facs="tcp:52749:4"/>
+            <p>
+               <table>
+                  <head>
+                     <hi>A Liſt of all His Majeſties Subjects that were Priſoners at</hi> Havannah, <hi>and received on Board His Majeſties Ship the</hi> Hunter, <hi>under the Command of Captain</hi> John Toſier, <hi>lying off and on before the Har<g ref="char:EOLhyphen"/>bour, on</hi> February 14. 1678/9. <hi>And the next day entred into Victu<g ref="char:EOLhyphen"/>aling at half allowance.</hi>
+                  </head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">Y<hi rend="sup">rs.</hi>
+                     </cell>
+                     <cell role="label">M<hi rend="sup">ths.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>Mr. William Winford</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>2 <hi>James Pung.</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>3 <hi>Francis Redmain.</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>4 <hi>Thomas Richardſon.</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>5 <hi>John Evans.</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>6 <hi>Thomas Cock.</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>7 <hi>Ralph Graves.</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>8 <hi>Jonas Johnſon.</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>9 <hi>Ambroſe Brown.</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>10 <hi>John Kenneday.</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>11 <hi>Robert Peppin.</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>12 <hi>Nicholas Gunniop.</hi>
+                     </cell>
+                     <cell>4</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>13 <hi>Thomas Macket.</hi>
+                     </cell>
+                     <cell>4</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>14 <hi>Peter Watſon.</hi>
+                     </cell>
+                     <cell>4</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>15 <hi>Thomas Hall.</hi>
+                     </cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>16 <hi>Richard Harris.</hi>
+                     </cell>
+                     <cell>4</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>17 <hi>John Vaughan.</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>18 <hi>Robert Mercum.</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>19 <hi>Joſeph Rivers.</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>20 <hi>Richard Merrington.</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>21 <hi>Ambroſe Henſree.</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>22 <hi>Robert Chiffin.</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>23 <hi>Robert Middleton.</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>24 <hi>Gilbert Dike.</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>25 <hi>John Alexander.</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>26 <hi>John Woodcock.</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>27 <hi>James Hall.</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>28 <hi>Morris Smith.</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>29 <hi>Henry Webber.</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>30 <hi>William Owens.</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>31 <hi>Patrick Cairney.</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>32 <hi>Thomas Maſon.</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>33 <hi>John Weſt.</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>34 <hi>Benjamin Willis.</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>35 <hi>Nicholas Stonning.</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>36 <hi>Cornelius Lachlon.</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>37 <hi>Thomas Loind.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>38 <hi>Noah Parker.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>39 <hi>Thomas Butler.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>40 <hi>Ambroſe Roſe.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>41 <hi>John Horn.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>42 <hi>Hugh May.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>43 <hi>Thomas Biſhop.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>44 <hi>Thomas Maynder.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>45 <hi>Thomas Rous.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>46 <hi>George Winch.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
